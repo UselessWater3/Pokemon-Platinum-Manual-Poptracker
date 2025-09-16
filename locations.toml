@@ -395,7 +395,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1329
-label = "Survival Area - Overworld (Rare Candy)"
+label = "Survival Area - Item Behind Poké Mart"
 id = 314
 
 [survival_area_red_shard]
@@ -403,7 +403,7 @@ original_item = "red_shard"
 type = "overworld"
 table = "overworld"
 check = 1326
-label = "Survival Area - Overworld (Red Shard)"
+label = "Survival Area - Item to Left of Move Tutor's House"
 id = 311
 
 [survival_area_pp_up]
@@ -411,7 +411,7 @@ original_item = "pp_up"
 type = "hidden"
 table = "hidden"
 check = 861
-label = "Survival Area - Hidden (PP Up)"
+label = "Survival Area - Hidden Item in Corner of SW Trees"
 id = 131
 
 [great_marsh_5_great_ball]
@@ -843,7 +843,7 @@ original_item = "nugget"
 type = "overworld"
 table = "overworld"
 check = 1246
-label = "Resort Area - Overworld (Nugget)"
+label = "Resort Area - Item Across Pond"
 id = 232
 
 [resort_area_nugget_0]
@@ -851,7 +851,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 876
-label = "Resort Area - Hidden (Nugget)"
+label = "Resort Area - Hidden Item in Front of Villa"
 id = 146
 
 [twinleaf_town_odd_keystone]
@@ -891,7 +891,7 @@ original_item = "mystic_water"
 type = "overworld"
 table = "overworld"
 check = 1088
-label = "Pastoria City - Overworld (Mystic Water)"
+label = "Pastoria City - Item in Trees Above Boats"
 id = 74
 
 [pastoria_city_zinc]
@@ -899,7 +899,7 @@ original_item = "zinc"
 type = "hidden"
 table = "hidden"
 check = 757
-label = "Pastoria City - Hidden (Zinc)"
+label = "Pastoria City - Hidden Item in Southwest Puddle"
 id = 27
 
 [iron_island_star_piece]
@@ -1063,7 +1063,7 @@ original_item = "tm40"
 type = "overworld"
 table = "overworld"
 check = 1090
-label = "Route 213 - Overworld (TM40)"
+label = "Route 213 - Item Behind Breakable Rock on Beach"
 id = 76
 
 [route_213_yellow_shard]
@@ -1071,7 +1071,7 @@ original_item = "yellow_shard"
 type = "overworld"
 table = "overworld"
 check = 1091
-label = "Route 213 - Overworld (Yellow Shard)"
+label = "Route 213 - Item to Left of Hotel Entrance"
 id = 77
 
 [route_213_max_revive]
@@ -1079,7 +1079,7 @@ original_item = "max_revive"
 type = "overworld"
 table = "overworld"
 check = 1092
-label = "Route 213 - Overworld (Max Revive)"
+label = "Route 213 - Item on Sandy Island"
 id = 78
 
 [route_213_water_stone]
@@ -1087,7 +1087,7 @@ original_item = "water_stone"
 type = "overworld"
 table = "overworld"
 check = 1093
-label = "Route 213 - Overworld (Water Stone)"
+label = "Route 213 - Item on Small Island Above Swimmers"
 id = 79
 
 [route_213_tm05]
@@ -1095,7 +1095,7 @@ original_item = "tm05"
 type = "overworld"
 table = "overworld"
 check = 1089
-label = "Route 213 - Overworld (TM05)"
+label = "Route 213 - Item By Grass After Rock Climb Slope"
 id = 75
 
 [route_213_pp_up]
@@ -1103,7 +1103,7 @@ original_item = "pp_up"
 type = "overworld"
 table = "overworld"
 check = 1094
-label = "Route 213 - Overworld (PP Up)"
+label = "Route 213 - Item South of Pool"
 id = 80
 
 [route_213_protein]
@@ -1111,7 +1111,7 @@ original_item = "protein"
 type = "overworld"
 table = "overworld"
 check = 1095
-label = "Route 213 - Overworld (Protein)"
+label = "Route 213 - Item Down East Rock Climb Slopes"
 id = 81
 
 [route_213_hp_up]
@@ -1119,7 +1119,7 @@ original_item = "hp_up"
 type = "hidden"
 table = "hidden"
 check = 760
-label = "Route 213 - Hidden (HP Up)"
+label = "Route 213 - Hidden Item in Grass After Rock Climb Slope"
 id = 30
 
 [route_213_big_pearl]
@@ -1127,7 +1127,7 @@ original_item = "big_pearl"
 type = "hidden"
 table = "hidden"
 check = 759
-label = "Route 213 - Hidden (Big Pearl)"
+label = "Route 213 - Hidden Item on Sandy Island"
 id = 29
 
 [route_213_pearl]
@@ -1167,7 +1167,7 @@ original_item = "max_revive"
 type = "hidden"
 table = "hidden"
 check = 896
-label = "Route 213 - Hidden (Max Revive)"
+label = "Route 213 - Hidden Item in Rock Corner Behind Fisherman"
 id = 166
 
 [route_213_heart_scale]
@@ -1183,7 +1183,7 @@ original_item = "big_pearl"
 type = "hidden"
 table = "hidden"
 check = 915
-label = "Route 213 - Hidden (Big Pearl) 1"
+label = "Route 213 - Hidden Item on Southeast White Rock"
 id = 185
 
 [route_213_heart_scale_0]
@@ -1199,7 +1199,7 @@ original_item = "suite_key"
 type = "key_item"
 table = "hidden"
 check = 946
-label = "Route 213 - Hidden (Suite Key)"
+label = "Route 213 - Hidden Suite Key By Reception"
 id = 216
 
 [route_213_pearl_2]
@@ -1343,7 +1343,7 @@ original_item = "full_heal"
 type = "overworld"
 table = "overworld"
 check = 1073
-label = "Route 212 - Overworld (Full Heal)"
+label = "Route 212 South - Item in Bottom Left of West Grass Area"
 id = 59
 
 [route_212_south_tm84]
@@ -1351,7 +1351,7 @@ original_item = "tm84"
 type = "overworld"
 table = "overworld"
 check = 1074
-label = "Route 212 - Overworld (TM84)"
+label = "Route 212 South - Item By Grass Patch in Water"
 id = 60
 
 [route_212_south_tm62]
@@ -1359,7 +1359,7 @@ original_item = "tm62"
 type = "overworld"
 table = "overworld"
 check = 1075
-label = "Route 212 - Overworld (TM62)"
+label = "Route 212 South - Item on Northeast Island Past Bike Bridge"
 id = 61
 
 [route_212_south_zinc]
@@ -1367,7 +1367,7 @@ original_item = "zinc"
 type = "overworld"
 table = "overworld"
 check = 1076
-label = "Route 212 - Overworld (Zinc)"
+label = "Route 212 South - Item on Ledge Above Move Tutor"
 id = 62
 
 [route_212_south_hyper_potion]
@@ -1375,7 +1375,7 @@ original_item = "hyper_potion"
 type = "overworld"
 table = "overworld"
 check = 1077
-label = "Route 212 - Overworld (Hyper Potion)"
+label = "Route 212 South - Item Near Scientist Between Cut Trees"
 id = 63
 
 [route_212_south_tm06]
@@ -1383,7 +1383,7 @@ original_item = "tm06"
 type = "overworld"
 table = "overworld"
 check = 1078
-label = "Route 212 - Overworld (TM06)"
+label = "Route 212 South - Item in SE Corner of Big Mud Patch"
 id = 64
 
 [route_212_south_revive]
@@ -1391,7 +1391,7 @@ original_item = "revive"
 type = "overworld"
 table = "overworld"
 check = 1079
-label = "Route 212 - Overworld (Revive)"
+label = "Route 212 South - Item Under Eastern Bike Bridge"
 id = 65
 
 [route_212_south_elixir]
@@ -1399,7 +1399,7 @@ original_item = "elixir"
 type = "overworld"
 table = "overworld"
 check = 1290
-label = "Route 212 - Overworld (Elixir)"
+label = "Route 212 South - Item Below Honey Tree"
 id = 275
 
 [route_212_south_blue_shard]
@@ -1407,7 +1407,7 @@ original_item = "blue_shard"
 type = "overworld"
 table = "overworld"
 check = 1289
-label = "Route 212 - Overworld (Blue Shard)"
+label = "Route 212 South - Item in Top Left of West Grass Area"
 id = 274
 
 [route_212_south_max_ether]
@@ -1415,7 +1415,7 @@ original_item = "max_ether"
 type = "hidden"
 table = "hidden"
 check = 749
-label = "Route 212 - Hidden (Max Ether)"
+label = "Route 212 South - Hidden Item Below Two Trees on Corner"
 id = 19
 
 [route_212_south_dawn_stone]
@@ -1423,7 +1423,7 @@ original_item = "dawn_stone"
 type = "hidden"
 table = "hidden"
 check = 756
-label = "Route 212 - Hidden (Dawn Stone)"
+label = "Route 212 South - Hidden Item in Mud Near Pastoria 3"
 id = 26
 
 [route_212_south_full_heal_0]
@@ -1431,7 +1431,7 @@ original_item = "full_heal"
 type = "hidden"
 table = "hidden"
 check = 755
-label = "Route 212 - Hidden (Full Heal)"
+label = "Route 212 South - Hidden Item in Deep Mud South of Honey Tree"
 id = 25
 
 [route_212_south_rare_candy]
@@ -1439,7 +1439,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 751
-label = "Route 212 - Hidden (Rare Candy)"
+label = "Route 212 South - Hidden Item in Deep Mud Far South of Honey Tree"
 id = 21
 
 [route_212_south_hyper_potion_0]
@@ -1447,7 +1447,7 @@ original_item = "hyper_potion"
 type = "hidden"
 table = "hidden"
 check = 754
-label = "Route 212 - Hidden (Hyper Potion)"
+label = "Route 212 South - Hidden Item in Mud Near Pastoria 1"
 id = 24
 
 [route_212_south_max_repel]
@@ -1455,7 +1455,7 @@ original_item = "max_repel"
 type = "hidden"
 table = "hidden"
 check = 753
-label = "Route 212 - Hidden (Max Repel)"
+label = "Route 212 South - Hidden Item in Deep Mud West of Honey Tree"
 id = 23
 
 [route_212_south_ultra_ball]
@@ -1463,7 +1463,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 752
-label = "Route 212 - Hidden (Ultra Ball)"
+label = "Route 212 South - Hidden Item in Mud Near Pastoria 2"
 id = 22
 
 [route_212_south_big_mushroom]
@@ -1471,7 +1471,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 750
-label = "Route 212 - Hidden (Big Mushroom)"
+label = "Route 212 South - Hidden Item on SW Bike Bridge Island"
 id = 20
 
 [route_212_north_rose_incense]
@@ -1479,7 +1479,7 @@ original_item = "rose_incense"
 type = "overworld"
 table = "overworld"
 check = 1069
-label = "Route 212 - Overworld (Rose Incense)"
+label = "Route 212 North - Item in Flower Patch"
 id = 55
 
 [route_212_north_tm11]
@@ -1487,7 +1487,7 @@ original_item = "tm11"
 type = "overworld"
 table = "overworld"
 check = 1068
-label = "Route 212 - Overworld (TM11)"
+label = "Route 212 North - Item on West Ledge"
 id = 54
 
 [route_212_north_elixir]
@@ -1495,7 +1495,7 @@ original_item = "elixir"
 type = "overworld"
 table = "overworld"
 check = 1070
-label = "Route 212 - Overworld (Elixir) 1"
+label = "Route 212 North - Item Behind Trainer Tips Sign"
 id = 56
 
 [route_212_north_green_shard]
@@ -1503,7 +1503,7 @@ original_item = "green_shard"
 type = "overworld"
 table = "overworld"
 check = 1288
-label = "Route 212 - Overworld (Green Shard)"
+label = "Route 212 North - Item Next to Mansion"
 id = 273
 
 [route_212_north_iron]
@@ -1511,7 +1511,7 @@ original_item = "iron"
 type = "overworld"
 table = "overworld"
 check = 1287
-label = "Route 212 - Overworld (Iron)"
+label = "Route 212 North - Item Next to North Pond"
 id = 272
 
 [route_212_north_ultra_ball]
@@ -1519,7 +1519,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 748
-label = "Route 212 - Hidden (Ultra Ball) 1"
+label = "Route 212 North - Hidden Item in Bush Outside of Mansion Fences"
 id = 18
 
 [route_212_north_pearl]
@@ -1527,7 +1527,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 747
-label = "Route 212 - Hidden (Pearl)"
+label = "Route 212 North - Hidden Item in Bush By Mansion Entrance"
 id = 17
 
 [route_208_ether]
@@ -2047,7 +2047,7 @@ original_item = "full_restore"
 type = "overworld"
 table = "overworld"
 check = 1190
-label = "Route 222 - Overworld (Full Restore)"
+label = "Route 222 - Item on Ledge"
 id = 176
 
 [route_222_carbos]
@@ -2055,7 +2055,7 @@ original_item = "carbos"
 type = "overworld"
 table = "overworld"
 check = 1189
-label = "Route 222 - Overworld (Carbos)"
+label = "Route 222 - Item Behind Cut Tree"
 id = 175
 
 [route_222_quick_ball]
@@ -2063,7 +2063,7 @@ original_item = "quick_ball"
 type = "overworld"
 table = "overworld"
 check = 1314
-label = "Route 222 - Overworld (Quick Ball)"
+label = "Route 222 - Item in Grass Below Fence"
 id = 299
 
 [route_222_pp_up]
@@ -2071,7 +2071,7 @@ original_item = "pp_up"
 type = "overworld"
 table = "overworld"
 check = 1315
-label = "Route 222 - Overworld (PP Up)"
+label = "Route 222 - Item Next to Pikachu House"
 id = 300
 
 [route_222_full_restore_0]
@@ -2079,7 +2079,7 @@ original_item = "full_restore"
 type = "hidden"
 table = "hidden"
 check = 839
-label = "Route 222 - Hidden (Full Restore)"
+label = "Route 222 - Hidden Item in Grass Below Fence 1"
 id = 109
 
 [route_222_pp_up_0]
@@ -2087,7 +2087,7 @@ original_item = "pp_up"
 type = "hidden"
 table = "hidden"
 check = 737
-label = "Route 222 - Hidden (PP Up)"
+label = "Valor Lakefront - Hidden Item in Corner of Route 222's NW Trees"
 id = 7
 
 [route_222_tinymushroom]
@@ -2095,7 +2095,7 @@ original_item = "tinymushroom"
 type = "hidden"
 table = "hidden"
 check = 887
-label = "Route 222 - Hidden (TinyMushroom)"
+label = "Route 222 - Hidden Item in Grass Below Fence 2"
 id = 157
 
 [route_222_ultra_ball]
@@ -2103,7 +2103,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 888
-label = "Route 222 - Hidden (Ultra Ball)"
+label = "Route 222 - Hidden Item in Northern Grass"
 id = 158
 
 [route_222_big_mushroom]
@@ -2111,7 +2111,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 993
-label = "Route 222 - Hidden (Big Mushroom)"
+label = "Route 222 - Hidden Item in Grass Below SE Fence"
 id = 263
 
 [route_222_pearl]
@@ -2119,7 +2119,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 994
-label = "Route 222 - Hidden (Pearl)"
+label = "Route 222 - Hidden Item Below First Rock on Beach"
 id = 264
 
 [route_222_heart_scale]
@@ -2127,7 +2127,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 995
-label = "Route 222 - Hidden (Heart Scale)"
+label = "Route 222 - Hidden Item Between Fishermen"
 id = 265
 
 [route_222_heart_scale_0]
@@ -2135,7 +2135,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 996
-label = "Route 222 - Hidden (Heart Scale) 1"
+label = "Route 222 - Hidden Item in Front of Pikachu House"
 id = 266
 
 [sunyshore_city_thunderstone]
@@ -2143,7 +2143,7 @@ original_item = "thunderstone"
 type = "overworld"
 table = "overworld"
 check = 1191
-label = "Sunyshore City - Overworld (Thunderstone)"
+label = "Sunyshore City - Item Down Stairs Behind Vista Lighthouse"
 id = 177
 
 [sunyshore_city_carbos]
@@ -2151,7 +2151,7 @@ original_item = "carbos"
 type = "hidden"
 table = "hidden"
 check = 841
-label = "Sunyshore City - Hidden (Carbos)"
+label = "Sunyshore City - Hidden Item Near Sunyshore Market"
 id = 111
 
 [sunyshore_city_zap_plate]
@@ -2159,7 +2159,7 @@ original_item = "zap_plate"
 type = "hidden"
 table = "hidden"
 check = 840
-label = "Sunyshore City - Hidden (Zap Plate)"
+label = "Sunyshore City - Hidden Item in Front of Vista Lighthouse"
 id = 110
 
 [route_223_tm18]
@@ -2223,7 +2223,7 @@ original_item = "tm39"
 type = "overworld"
 table = "overworld"
 check = 1025
-label = "Ravaged Path - Overworld (TM39)"
+label = "Ravaged Path - Item Left of Breakable Rocks"
 id = 11
 
 [ravaged_path_luck_incense]
@@ -2231,7 +2231,7 @@ original_item = "luck_incense"
 type = "overworld"
 table = "overworld"
 check = 1026
-label = "Ravaged Path - Overworld (Luck Incense)"
+label = "Ravaged Path - Item Behind Long Boulder Trail"
 id = 12
 
 [ravaged_path_tm03]
@@ -2239,7 +2239,7 @@ original_item = "tm03"
 type = "overworld"
 table = "overworld"
 check = 1027
-label = "Ravaged Path - Overworld (TM03)"
+label = "Ravaged Path - Item at Water's End"
 id = 13
 
 [ravaged_path_potion]
@@ -2247,7 +2247,7 @@ original_item = "potion"
 type = "overworld"
 table = "overworld"
 check = 1265
-label = "Ravaged Path - Free Item"
+label = "Ravaged Path - First Item"
 id = 251
 
 [route_204_north_tm09]
@@ -2391,7 +2391,7 @@ original_item = "ether"
 type = "overworld"
 table = "overworld"
 check = 1099
-label = "Eterna Forest - Overworld (Ether)"
+label = "Eterna Forest - Item Next to Old Chateau"
 id = 85
 
 [eterna_forest_potion]
@@ -2407,7 +2407,7 @@ original_item = "insect_plate"
 type = "hidden"
 table = "hidden"
 check = 731
-label = "Eterna Forest - Hidden (Insect Plate)"
+label = "Eterna Forest - Hidden Item Next to Old Chateau"
 id = 1
 
 [fuego_ironworks_outside_ultra_ball]
@@ -2511,7 +2511,7 @@ original_item = "old_gateau"
 type = "overworld"
 table = "overworld"
 check = 1036
-label = "Old Chateau - Overworld (Old Gateau)"
+label = "Old Chateau 2F - Item in Room Left of Entrance"
 id = 22
 
 [route_205_north_guard_spec]
@@ -2567,7 +2567,7 @@ original_item = "tm90"
 type = "overworld"
 table = "overworld"
 check = 1262
-label = "Old Chateau - Overworld (TM90)"
+label = "Old Chateau 2F - Item in Easternmost Bedroom"
 id = 248
 
 [old_chateau_back_west_room_dread_plate]
@@ -2575,7 +2575,7 @@ original_item = "dread_plate"
 type = "overworld"
 table = "overworld"
 check = 1261
-label = "Old Chateau - Overworld (Dread Plate)"
+label = "Old Chateau 2F - Item in Westernmost Bedroom"
 id = 247
 
 [stark_mountain_room_2_tm50]
@@ -2703,7 +2703,7 @@ original_item = "tm85"
 type = "overworld"
 table = "overworld"
 check = 1097
-label = "Valor Lakefront - Overworld (TM85)"
+label = "Valor Lakefront - Item After Rock Climb Ledges 2"
 id = 83
 
 [valor_lakefront_ultra_ball]
@@ -2711,7 +2711,7 @@ original_item = "ultra_ball"
 type = "overworld"
 table = "overworld"
 check = 1098
-label = "Valor Lakefront - Overworld (Ultra Ball)"
+label = "Valor Lakefront - Item in Grass"
 id = 84
 
 [valor_lakefront_iron]
@@ -2719,7 +2719,7 @@ original_item = "iron"
 type = "overworld"
 table = "overworld"
 check = 1330
-label = "Valor Lakefront - Overworld (Iron)"
+label = "Valor Lakefront - Item After Rock Climb Ledges 1"
 id = 315
 
 [valor_lakefront_sun_stone]
@@ -2727,7 +2727,7 @@ original_item = "sun_stone"
 type = "hidden"
 table = "hidden"
 check = 761
-label = "Valor Lakefront - Hidden (Sun Stone)"
+label = "Valor Lakefront - Hidden Item After Rock Climbing From Route 213"
 id = 31
 
 [valor_lakefront_big_mushroom]
@@ -2735,7 +2735,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 910
-label = "Valor Lakefront - Hidden (Big Mushroom)"
+label = "Valor Lakefront - Hidden Item in Upper Corner of Grass"
 id = 180
 
 [route_214_rare_candy]
@@ -2815,7 +2815,7 @@ original_item = "full_incense"
 type = "overworld"
 table = "overworld"
 check = 1123
-label = "Veilstone City - Overworld (Full Incense)"
+label = "Veilstone City - Item on Rock Climb Platform"
 id = 109
 
 [veilstone_city_rare_candy]
@@ -2823,7 +2823,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1124
-label = "Veilstone City - Overworld (Rare Candy)"
+label = "Veilstone City - Item Next to Galactic Building"
 id = 110
 
 [veilstone_city_star_piece]
@@ -2831,7 +2831,7 @@ original_item = "star_piece"
 type = "overworld"
 table = "overworld"
 check = 1286
-label = "Veilstone City - Overworld (Star Piece)"
+label = "Veilstone City - Item Between Galactic Warehouses"
 id = 271
 
 [veilstone_city_calcium]
@@ -2839,7 +2839,7 @@ original_item = "calcium"
 type = "hidden"
 table = "hidden"
 check = 771
-label = "Veilstone City - Hidden (Calcium)"
+label = "Veilstone City - Hidden Item in Corner of Galactic Warehouses"
 id = 41
 
 [veilstone_city_pp_up]
@@ -2847,7 +2847,7 @@ original_item = "pp_up"
 type = "hidden"
 table = "hidden"
 check = 770
-label = "Veilstone City - Hidden (PP Up)"
+label = "Veilstone City - Hidden Item Between Trees and Dept. Store"
 id = 40
 
 [veilstone_city_star_piece_0]
@@ -2855,7 +2855,7 @@ original_item = "star_piece"
 type = "hidden"
 table = "hidden"
 check = 989
-label = "Veilstone City - Hidden (Star Piece)"
+label = "Veilstone City - Hidden Item in Pit With Two Meteorites"
 id = 259
 
 [old_chateau_dining_area_rare_candy]
@@ -2863,7 +2863,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1281
-label = "Old Chateau - Overworld (Rare Candy)"
+label = "Old Chateau 1F - Item on Left of Dining Area"
 id = 266
 
 [old_chateau_dining_area_big_pearl]
@@ -2871,7 +2871,7 @@ original_item = "big_pearl"
 type = "overworld"
 table = "overworld"
 check = 1282
-label = "Old Chateau - Overworld (Big Pearl)"
+label = "Old Chateau 1F - Item on Right of Dining Area"
 id = 267
 
 [old_chateau_dining_area_honey_x3]
@@ -2879,7 +2879,7 @@ original_item = "honey_x3"
 type = "hidden"
 table = "hidden"
 check = 897
-label = "Old Chateau - Hidden (Honey) x3"
+label = "Old Chateau 1F - Hidden Item in Box in Kitchen"
 id = 167
 
 [floaroma_meadow_miracle_seed]
@@ -3057,7 +3057,7 @@ original_item = "tm49"
 type = "overworld"
 table = "overworld"
 check = 1179
-label = "Galactic HQ - Overworld (TM49)"
+label = "Galactic Warehouse - Item in Room With Boxes and Green Warp"
 id = 165
 
 [galactic_hq_1f_dubious_disc]
@@ -3065,7 +3065,7 @@ original_item = "dubious_disc"
 type = "overworld"
 table = "overworld"
 check = 1312
-label = "Galactic HQ - Overworld (Dubious Disc)"
+label = "Galactic Warehouse - Item Next to Table"
 id = 297
 
 [galactic_hq_1f_pp_up]
@@ -3073,7 +3073,7 @@ original_item = "pp_up"
 type = "hidden"
 table = "hidden"
 check = 804
-label = "Galactic HQ - Hidden (PP Up)"
+label = "Galactic HQ - Hidden Item Near Entrance in Green Warp Room"
 id = 74
 
 [galactic_hq_4f_razor_claw]
@@ -3081,7 +3081,7 @@ original_item = "razor_claw"
 type = "hidden"
 table = "hidden"
 check = 810
-label = "Galactic HQ - Hidden (Razor Claw)"
+label = "Galactic HQ - Hidden Item in Room Next to Cyrus"
 id = 80
 
 [galactic_hq_3f_tm21]
@@ -3089,7 +3089,7 @@ original_item = "tm21"
 type = "overworld"
 table = "overworld"
 check = 1180
-label = "Galactic HQ - Overworld (TM21)"
+label = "Galactic Warehouse - Item in Many Generators Room"
 id = 166
 
 [galactic_hq_3f_max_elixir]
@@ -3097,7 +3097,7 @@ original_item = "max_elixir"
 type = "overworld"
 table = "overworld"
 check = 1182
-label = "Galactic HQ - Overworld (Max Elixir)"
+label = "Galactic HQ - Item in Room with Two Tables"
 id = 168
 
 [galactic_hq_3f_protein]
@@ -3105,7 +3105,7 @@ original_item = "protein"
 type = "overworld"
 table = "overworld"
 check = 1310
-label = "Galactic HQ - Overworld (Protein)"
+label = "Galactic HQ - Item Behind Box"
 id = 295
 
 [galactic_hq_3f_elixir]
@@ -3113,7 +3113,7 @@ original_item = "elixir"
 type = "hidden"
 table = "hidden"
 check = 808
-label = "Galactic HQ - Hidden (Elixir)"
+label = "Galactic HQ - Hidden Item in Box in Room with Two Tables"
 id = 78
 
 [galactic_hq_3f_rare_candy]
@@ -3121,7 +3121,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 807
-label = "Galactic HQ - Hidden (Rare Candy)"
+label = "Galactic Warehouse - Hidden Item Near Team Galactic Credo"
 id = 77
 
 [galactic_hq_3f_nugget]
@@ -3129,7 +3129,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 809
-label = "Galactic HQ - Hidden (Nugget)"
+label = "Galactic HQ - Hidden Item by Three Teleporters"
 id = 79
 
 [galactic_hq_b2f_tm36]
@@ -3137,7 +3137,7 @@ original_item = "tm36"
 type = "overworld"
 table = "overworld"
 check = 1178
-label = "Galactic HQ - Overworld (TM36)"
+label = "Galactic Warehouse - Item Sitting in Puddle"
 id = 164
 
 [galactic_hq_b2f_galactic_key]
@@ -3145,7 +3145,7 @@ original_item = "galactic_key"
 type = "key_item"
 table = "overworld"
 check = 1251
-label = "Galactic HQ - Overworld (Galactic Key)"
+label = "Galactic Warehouse - Galactic Key Next to Locked Door"
 id = 237
 
 [galactic_hq_b2f_zinc]
@@ -3153,7 +3153,7 @@ original_item = "zinc"
 type = "overworld"
 table = "overworld"
 check = 1258
-label = "Galactic HQ - Overworld (Zinc)"
+label = "Galactic Warehouse - Item By Boxes"
 id = 244
 
 [galactic_hq_laboratory_full_restore]
@@ -3161,7 +3161,7 @@ original_item = "full_restore"
 type = "overworld"
 table = "overworld"
 check = 1311
-label = "Galactic HQ - Overworld (Full Restore)"
+label = "Galactic HQ Secret Lab - Item Next to Three Machines"
 id = 296
 
 [pokemon_mansion_maids_room_luxury_ball]
@@ -3169,7 +3169,7 @@ original_item = "luxury_ball"
 type = "overworld"
 table = "overworld"
 check = 1072
-label = "Pokémon Mansion - Overworld (Luxury Ball)"
+label = "Pokémon Mansion - Item in West Bedroom"
 id = 58
 
 [pokemon_mansion_maids_room_protein]
@@ -3177,7 +3177,7 @@ original_item = "protein"
 type = "hidden"
 table = "hidden"
 check = 893
-label = "Pokémon Mansion - Hidden (Protein)"
+label = "Pokémon Mansion - Hidden Item in East Bedroom Trash"
 id = 163
 
 [route_206_poison_barb]
@@ -3513,7 +3513,7 @@ original_item = "max_revive"
 type = "overworld"
 table = "overworld"
 check = 1181
-label = "Galactic HQ - Overworld (Max Revive)"
+label = "Galactic HQ - Item in Room with Two Generators"
 id = 167
 
 [galactic_hq_2f_green_shard]
@@ -3521,7 +3521,7 @@ original_item = "green_shard"
 type = "overworld"
 table = "overworld"
 check = 1313
-label = "Galactic HQ - Overworld (Green Shard)"
+label = "Galactic HQ - Item in Room with Four Boxes"
 id = 298
 
 [galactic_hq_2f_poke_doll]
@@ -3529,7 +3529,7 @@ original_item = "poke_doll"
 type = "hidden"
 table = "hidden"
 check = 805
-label = "Galactic HQ - Hidden (Poké Doll)"
+label = "Galactic HQ - Hidden Item in Bed"
 id = 75
 
 [galactic_hq_2f_max_potion]
@@ -3537,7 +3537,7 @@ original_item = "max_potion"
 type = "hidden"
 table = "hidden"
 check = 806
-label = "Galactic HQ - Hidden (Max Potion)"
+label = "Galactic HQ - Hidden Item in Room with Four Boxes"
 id = 76
 
 [lake_valor_drained_hp_up]
@@ -3545,7 +3545,7 @@ original_item = "hp_up"
 type = "hidden"
 table = "hidden"
 check = 787
-label = "Lake Valor - Hidden (HP Up)"
+label = "Lake Valor - Hidden Item By Pile of Magikarp During Saturn Takeover"
 id = 57
 
 [eterna_forest_outside_tm82]
@@ -3569,7 +3569,7 @@ original_item = "tm87"
 type = "overworld"
 table = "overworld"
 check = 1071
-label = "Pokémon Mansion - Overworld (TM87)"
+label = "Pokémon Mansion - Item in Mr. Backlot's Office"
 id = 57
 
 [mt_coronet_1f_tunnel_room_green_shard]
@@ -3793,7 +3793,7 @@ original_item = "tm13"
 type = "overworld"
 table = "overworld"
 check = 1171
-label = "Route 216 - Overworld (TM13)"
+label = "Route 216 - Right Item on Rock Climb Ledge"
 id = 157
 
 [route_216_full_heal]
@@ -3801,7 +3801,7 @@ original_item = "full_heal"
 type = "overworld"
 table = "overworld"
 check = 1173
-label = "Route 216 - Overworld (Full Heal)"
+label = "Route 216 - Item North of Middle Bridge"
 id = 159
 
 [route_216_mental_herb]
@@ -3809,7 +3809,7 @@ original_item = "mental_herb"
 type = "overworld"
 table = "overworld"
 check = 1172
-label = "Route 216 - Overworld (Mental Herb)"
+label = "Route 216 - Left Item on Rock Climb Ledge"
 id = 158
 
 [route_216_hp_up]
@@ -3817,7 +3817,7 @@ original_item = "hp_up"
 type = "overworld"
 table = "overworld"
 check = 1260
-label = "Route 216 - Overworld (HP Up)"
+label = "Route 216 - Top Item on Rock Climb Ledge"
 id = 246
 
 [route_216_max_potion]
@@ -3825,7 +3825,7 @@ original_item = "max_potion"
 type = "overworld"
 table = "overworld"
 check = 1305
-label = "Route 216 - Overworld (Max Potion)"
+label = "Route 216 - Bottom Item on Rock Climb Ledge"
 id = 290
 
 [route_216_revive]
@@ -3833,7 +3833,7 @@ original_item = "revive"
 type = "overworld"
 table = "overworld"
 check = 1306
-label = "Route 216 - Overworld (Revive)"
+label = "Route 216 - Item South of West Bridge"
 id = 291
 
 [route_216_pp_up]
@@ -3841,7 +3841,7 @@ original_item = "pp_up"
 type = "hidden"
 table = "hidden"
 check = 801
-label = "Route 216 - Hidden (PP Up)"
+label = "Route 216 - Hidden Item South of East Bridge"
 id = 71
 
 [route_211_east_tm29]
@@ -3889,7 +3889,7 @@ original_item = "hm08"
 type = "hm"
 table = "overworld"
 check = 1175
-label = "Route 217 - Overworld (HM08)"
+label = "Route 217 - HM08 Above Hiker's House"
 id = 161
 
 [route_217_iron]
@@ -3897,7 +3897,7 @@ original_item = "iron"
 type = "overworld"
 table = "overworld"
 check = 1176
-label = "Route 217 - Overworld (Iron)"
+label = "Route 217 - Item in Center Between Tree Pairs"
 id = 162
 
 [route_217_tm07]
@@ -3905,7 +3905,7 @@ original_item = "tm07"
 type = "overworld"
 table = "overworld"
 check = 1174
-label = "Route 217 - Overworld (TM07)"
+label = "Route 217 - Item Southeast of Hiker's House"
 id = 160
 
 [route_217_blue_shard]
@@ -3913,7 +3913,7 @@ original_item = "blue_shard"
 type = "overworld"
 table = "overworld"
 check = 1307
-label = "Route 217 - Overworld (Blue Shard)"
+label = "Route 217 - Item in South Far Below Tree"
 id = 292
 
 [route_217_ultra_ball]
@@ -3921,7 +3921,7 @@ original_item = "ultra_ball"
 type = "overworld"
 table = "overworld"
 check = 1308
-label = "Route 217 - Overworld (Ultra Ball)"
+label = "Route 217 - SE Item Between Ninja Boy and Skier"
 id = 293
 
 [route_217_rare_candy]
@@ -3929,7 +3929,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1309
-label = "Route 217 - Overworld (Rare Candy)"
+label = "Route 217 - Item Far East of Hiker's House"
 id = 294
 
 [route_217_iron_0]
@@ -3937,7 +3937,7 @@ original_item = "iron"
 type = "hidden"
 table = "hidden"
 check = 802
-label = "Route 217 - Hidden (Iron)"
+label = "Route 217 - Hidden Item Above SW Group of Trees"
 id = 72
 
 [route_217_max_revive]
@@ -3945,7 +3945,7 @@ original_item = "max_revive"
 type = "hidden"
 table = "hidden"
 check = 803
-label = "Route 217 - Hidden (Max Revive)"
+label = "Route 217 - Hidden Item Below Ghost's House"
 id = 73
 
 [route_217_ultra_ball_0]
@@ -3953,7 +3953,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 923
-label = "Route 217 - Hidden (Ultra Ball)"
+label = "Route 217 - Hidden Item Near Skier Above Hiker's House"
 id = 193
 
 [route_217_revival_herb]
@@ -3961,7 +3961,7 @@ original_item = "revival_herb"
 type = "hidden"
 table = "hidden"
 check = 924
-label = "Route 217 - Hidden (Revival Herb)"
+label = "Route 217 - Hidden Item in South in Center"
 id = 194
 
 [route_217_max_repel]
@@ -3969,7 +3969,7 @@ original_item = "max_repel"
 type = "hidden"
 table = "hidden"
 check = 925
-label = "Route 217 - Hidden (Max Repel)"
+label = "Route 217 - Hidden Item North of Middle Pair of Trees"
 id = 195
 
 [route_217_ultra_ball_1]
@@ -3977,7 +3977,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 926
-label = "Route 217 - Hidden (Ultra Ball) 1"
+label = "Route 217 - Hidden Item North of Lower Right Pair of Trees"
 id = 196
 
 [route_217_protein]
@@ -3985,7 +3985,7 @@ original_item = "protein"
 type = "hidden"
 table = "hidden"
 check = 927
-label = "Route 217 - Hidden (Protein)"
+label = "Route 217 - Hidden Item North of Lower Left Pair of Trees"
 id = 197
 
 [route_217_max_potion]
@@ -3993,7 +3993,7 @@ original_item = "max_potion"
 type = "hidden"
 table = "hidden"
 check = 928
-label = "Route 217 - Hidden (Max Potion)"
+label = "Route 217 - Hidden Item Near Skier Far East of Hiker's House"
 id = 198
 
 [route_217_full_heal]
@@ -4001,7 +4001,7 @@ original_item = "full_heal"
 type = "hidden"
 table = "hidden"
 check = 929
-label = "Route 217 - Hidden (Full Heal)"
+label = "Route 217 - SE Hidden Item Between Ninja Boy and Skier"
 id = 199
 
 [route_217_nugget]
@@ -4009,7 +4009,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 930
-label = "Route 217 - Hidden (Nugget)"
+label = "Route 217 - Hidden Item in Corner of SW Group of Trees"
 id = 200
 
 [acuity_lakefront_ultra_ball]
@@ -4017,7 +4017,7 @@ original_item = "ultra_ball"
 type = "overworld"
 table = "overworld"
 check = 1177
-label = "Acuity Lakefront - Overworld (Ultra Ball)"
+label = "Acuity Lakefront - NE Item"
 id = 163
 
 [acuity_lakefront_reaper_cloth]
@@ -4025,7 +4025,7 @@ original_item = "reaper_cloth"
 type = "overworld"
 table = "overworld"
 check = 1324
-label = "Acuity Lakefront - Overworld (Reaper Cloth)"
+label = "Acuity Lakefront - Item East of Lake Entrance"
 id = 309
 
 [lake_acuity_tm14]
@@ -4033,7 +4033,7 @@ original_item = "tm14"
 type = "overworld"
 table = "overworld"
 check = 1255
-label = "Lake Acuity - Overworld (TM14)"
+label = "Lake Acuity - Item in NE Corner of Lake"
 id = 241
 
 [snowpoint_city_ultra_ball]
@@ -4041,7 +4041,7 @@ original_item = "ultra_ball"
 type = "overworld"
 table = "overworld"
 check = 1325
-label = "Snowpoint City - Overworld (Ultra Ball)"
+label = "Snowpoint City - Item Below Crane"
 id = 310
 
 [snowpoint_city_rare_candy]
@@ -4049,7 +4049,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 908
-label = "Snowpoint City - Hidden (Rare Candy)"
+label = "Snowpoint City - Hidden Item Against Trees East of Gym"
 id = 178
 
 [snowpoint_temple_b1f_calcium]
@@ -4057,7 +4057,7 @@ original_item = "calcium"
 type = "overworld"
 table = "overworld"
 check = 1256
-label = "Snowpoint Temple - Overworld (Calcium)"
+label = "Snowpoint Temple B1F - Bottom Right Item"
 id = 242
 
 [mt_coronet_4f_room_3_max_elixir]
@@ -4073,7 +4073,7 @@ original_item = "full_restore"
 type = "hidden"
 table = "hidden"
 check = 909
-label = "Snowpoint Temple - Hidden (Full Restore)"
+label = "Snowpoint Temple B3F - Hidden Item on Rock Between Staircases"
 id = 179
 
 [snowpoint_temple_b4f_full_heal]
@@ -4081,7 +4081,7 @@ original_item = "full_heal"
 type = "overworld"
 table = "overworld"
 check = 1257
-label = "Snowpoint Temple - Overworld (Full Heal)"
+label = "Snowpoint Temple B4F - Item Past Ice Tile"
 id = 243
 
 [route_215_hyper_potion]
@@ -4089,7 +4089,7 @@ original_item = "hyper_potion"
 type = "overworld"
 table = "overworld"
 check = 1119
-label = "Route 215 - Overworld (Hyper Potion)"
+label = "Route 215 - Item South of Raised Grass Patch"
 id = 105
 
 [route_215_full_heal]
@@ -4097,7 +4097,7 @@ original_item = "full_heal"
 type = "overworld"
 table = "overworld"
 check = 1121
-label = "Route 215 - Overworld (Full Heal)"
+label = "Route 215 - Item West of Ace Trainers"
 id = 107
 
 [route_215_max_ether]
@@ -4105,7 +4105,7 @@ original_item = "max_ether"
 type = "overworld"
 table = "overworld"
 check = 1120
-label = "Route 215 - Overworld (Max Ether)"
+label = "Route 215 - Item Circled By Runner"
 id = 106
 
 [route_215_tm34]
@@ -4113,7 +4113,7 @@ original_item = "tm34"
 type = "overworld"
 table = "overworld"
 check = 1122
-label = "Route 215 - Overworld (TM34)"
+label = "Route 215 - Item Behind Cut Trees Below Northeast Grass Patch"
 id = 108
 
 [route_215_fist_plate]
@@ -4121,7 +4121,7 @@ original_item = "fist_plate"
 type = "overworld"
 table = "overworld"
 check = 1118
-label = "Route 215 - Overworld (Fist Plate)"
+label = "Route 215 - Item Next to Black Belt Behind Cut Tree"
 id = 104
 
 [route_215_hp_up]
@@ -4129,7 +4129,7 @@ original_item = "hp_up"
 type = "overworld"
 table = "overworld"
 check = 1285
-label = "Route 215 - Overworld (HP Up)"
+label = "Route 215 - Item Above Northeast Grass Patch"
 id = 270
 
 [route_215_revive]
@@ -4137,7 +4137,7 @@ original_item = "revive"
 type = "hidden"
 table = "hidden"
 check = 911
-label = "Route 215 - Hidden (Revive)"
+label = "Route 215 - Hidden Item on Hill With Two Bridges"
 id = 181
 
 [route_215_ultra_ball]
@@ -4145,7 +4145,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 912
-label = "Route 215 - Hidden (Ultra Ball)"
+label = "Route 215 - Hidden Item in Northeast Grass Patch"
 id = 182
 
 [route_215_iron]
@@ -4153,7 +4153,7 @@ original_item = "iron"
 type = "hidden"
 table = "hidden"
 check = 913
-label = "Route 215 - Hidden (Iron)"
+label = "Route 215 - Hidden Item Northwest of Ace Trainers"
 id = 183
 
 [team_galactic_eterna_building_2f_x_speed]
@@ -4329,7 +4329,7 @@ original_item = "tm25"
 type = "overworld"
 table = "overworld"
 check = 1254
-label = "Lake Valor - Overworld (TM25) 1"
+label = "Lake Valor - Item in SE Corner of Lake"
 id = 240
 
 [route_211_west_tm12]
@@ -4449,7 +4449,7 @@ original_item = "dusk_stone"
 type = "overworld"
 table = "overworld"
 check = 1125
-label = "Veilstone City - Overworld (Dusk Stone)"
+label = "Galactic Warehouse - Item By Computer"
 id = 111
 
 [veilstone_city_galactic_warehouse_hm02]
@@ -4457,7 +4457,7 @@ original_item = "hm02"
 type = "hm"
 table = "overworld"
 check = 1250
-label = "Veilstone City - Overworld (HM02)"
+label = "Galactic Warehouse - HM02 with Looker"
 id = 236
 
 [solaceon_ruins_room_5_southeast_deadend_thunderstone]
@@ -4601,7 +4601,7 @@ original_item = "forest_badge"
 type = "badge"
 table = "base"
 check = 116
-label = "Oreburgh City Gym - Forest Badge From Gardenia"
+label = "Eterna City Gym - Forest Badge From Gardenia"
 id = 2
 
 [eterna_city_gym_tm86]
@@ -4617,7 +4617,7 @@ original_item = "cobble_badge"
 type = "badge"
 table = "base"
 check = 157
-label = "Veilstone City Gym - Badge (From Maylene)"
+label = "Veilstone Gym - Cobble Badge from Maylene"
 id = 4
 
 [veilstone_city_gym_tm60]
@@ -4625,7 +4625,7 @@ original_item = "tm60"
 type = "npc_gift"
 table = "base"
 check = 157
-label = "Veilstone City Gym - TM60 (From Maylene)"
+label = "Veilstone Gym - TM60 from Maylene"
 id = 5
 
 [pastoria_city_gym_fen_badge]
@@ -4633,7 +4633,7 @@ original_item = "fen_badge"
 type = "badge"
 table = "base"
 check = 156
-label = "Pastoria City Gym - Badge (From Crasher Wake)"
+label = "Pastoria Gym - Fen Badge from Crasher Wake"
 id = 6
 
 [pastoria_city_gym_tm55]
@@ -4641,7 +4641,7 @@ original_item = "tm55"
 type = "npc_gift"
 table = "base"
 check = 156
-label = "Pastoria City Gym - TM55 (From Crasher Wake)"
+label = "Pastoria Gym - TM55 from Crasher Wake"
 id = 7
 
 [hearthome_city_gym_leader_room_relic_badge]
@@ -4681,7 +4681,7 @@ original_item = "icicle_badge"
 type = "badge"
 table = "base"
 check = 158
-label = "Snowpoint City Gym - Badge (From Candice)"
+label = "Snowpoint Gym - Icicle Badge from Candice"
 id = 12
 
 [snowpoint_city_gym_tm72]
@@ -4689,7 +4689,7 @@ original_item = "tm72"
 type = "npc_gift"
 table = "base"
 check = 158
-label = "Snowpoint City Gym - TM72 (From Candice)"
+label = "Snowpoint Gym - TM72 from Candice"
 id = 13
 
 [sunyshore_city_gym_room_3_beacon_badge]
@@ -4697,7 +4697,7 @@ original_item = "beacon_badge"
 type = "badge"
 table = "base"
 check = 182
-label = "Sunyshore City Gym - Badge (From Volkner)"
+label = "Sunyshore Gym - Beacon Badge from Volkner"
 id = 14
 
 [sunyshore_city_gym_room_3_tm57]
@@ -4705,7 +4705,7 @@ original_item = "tm57"
 type = "npc_gift"
 table = "base"
 check = 182
-label = "Sunyshore City Gym - TM57 (From Volkner)"
+label = "Sunyshore Gym - TM57 from Volkner"
 id = 15
 
 [eterna_city_hm01]
@@ -4749,7 +4749,7 @@ original_item = "hm07"
 type = "hm"
 table = "base"
 check = 154
-label = "Sunyshore City - HM07 (From Jasmine)"
+label = "Sunyshore City - HM07 from Jasmine"
 id = 20
 
 [route_207_dowsingmachine]
@@ -4785,7 +4785,7 @@ original_item = "super_rod"
 type = "rod"
 table = "base"
 check = 107
-label = "Fight Area - Super Rod (From Fisherman)"
+label = "Fight Area - Super Rod from Fisherman"
 id = 24
 
 [twinleaf_town_player_house_1f_running_shoes]
@@ -4865,7 +4865,7 @@ original_item = "kitchentimer"
 type = "poketchapp"
 table = "base"
 check = 2915
-label = "Pal Park Lobby - Kitchen Timer App"
+label = "Pal Park - Kitchen Timer App from Girl"
 id = 33
 
 [pal_park_lobby_colorchanger]
@@ -4873,14 +4873,14 @@ original_item = "colorchanger"
 type = "poketchapp"
 table = "base"
 check = 2916
-label = "Pal Park Lobby - Color Changer App"
+label = "Pal Park - Color Changer App from Girl"
 id = 34
 
 [pal_park_lobby_counter]
 original_item = "radarchaincounter"
 type = "poketchapp"
 table = "base"
-label = "Pal Park Lobby - Trainer Counter App"
+label = "Pal Park - Trainer Counter App from Prof Oak"
 id = 35
 
 [pal_park_lobby_counter.check]
@@ -5229,7 +5229,7 @@ check = 183
 original_item = "secretpotion"
 type = "key_item"
 table = "base"
-label = "Valor Lakefront - SecretPotion (From Cynthia)"
+label = "Valor Lakefront - SecretPotion from Cynthia"
 
 [route_210_south_tm51]
 id = 78
@@ -5277,7 +5277,7 @@ check = 204
 original_item = "tm63"
 type = "npc_gift"
 table = "base"
-label = "Veilstone City - TM63 (From Roughneck)"
+label = "Veilstone City - TM63 from Roughneck Near Gym"
 
 [veilstone_city_southeast_house_coin_case]
 id = 84
@@ -5285,14 +5285,14 @@ check = 188
 original_item = "coin_case"
 type = "key_item"
 table = "base"
-label = "Veilstone City - Coin Case"
+label = "Veilstone City - Coin Case from Clown in House"
 
 [galactic_hq_master_ball]
 id = 85
 original_item = "master_ball"
 type = "npc_gift"
 table = "base"
-label = "Veilstone Galactic HQ - Master Ball (From Cyrus)"
+label = "Galactic HQ - Master Ball from Cyrus"
 
 [galactic_hq_master_ball.check]
 id = 16598
@@ -5304,7 +5304,7 @@ check = 314
 original_item = "white_flute"
 type = "npc_gift"
 table = "base"
-label = "Valor Lakefront - White Flute (After Returning Suite Key)"
+label = "Valor Lakefront - Gift from Locked Out Woman"
 
 [grand_lake_route_213_northeast_house_cointoss]
 id = 87
@@ -5312,7 +5312,7 @@ check = 2927
 original_item = "cointoss"
 type = "poketchapp"
 table = "base"
-label = "Route 213 - Coin Toss App"
+label = "Route 213 - Coin Toss App from Rich Boy in Rock Climb House"
 
 [grand_lake_route_213_northwest_house_tm92]
 id = 88
@@ -5320,7 +5320,7 @@ check = 202
 original_item = "tm92"
 type = "npc_gift"
 table = "base"
-label = "Route 213 - TM92 (From Clown)"
+label = "Route 213 - TM92 from Clown in NW House"
 
 [pastoria_city_observatory_gate_1f_matchupchecker]
 id = 89
@@ -5328,7 +5328,7 @@ check = 163
 original_item = "matchupchecker"
 type = "poketchapp"
 table = "base"
-label = "Great Marsh - Matchup Checker App"
+label = "Great Marsh - Matchup Checker App from Cowgirl"
 
 [pokemon_mansion_maids_room_soothe_bell]
 id = 90
@@ -5336,7 +5336,7 @@ check = 313
 original_item = "soothe_bell"
 type = "npc_gift"
 table = "base"
-label = "Pokémon Mansion - Soothe Bell (From Maid)"
+label = "Pokémon Mansion - Soothe Bell from Maid in Center Bedroom"
 
 [canalave_city_southeast_house_tm48]
 id = 91
@@ -5360,7 +5360,7 @@ check = 222
 original_item = "icicle_plate"
 type = "npc_gift"
 table = "base"
-label = "Route 217 - Icicle Plate (From Hiker After Sharing HM08)"
+label = "Route 217 - Gift from Hiker"
 
 [route_217_northeast_house_spell_tag]
 id = 94
@@ -5368,7 +5368,7 @@ check = 315
 original_item = "spell_tag"
 type = "npc_gift"
 table = "base"
-label = "Route 217 - Spell Tag"
+label = "Route 217 - Spell Tag from Ghost Woman"
 
 [mt_coronet_outside_north_star_piece]
 id = 84
@@ -5400,7 +5400,7 @@ check = 2929
 original_item = "roulette"
 type = "poketchapp"
 table = "base"
-label = "Sunyshore City - Roulette App"
+label = "Sunyshore City - Roulette App From Developer"
 
 [sunyshore_city_east_house_dotart]
 id = 97
@@ -5408,7 +5408,7 @@ check = 2930
 original_item = "dotart"
 type = "poketchapp"
 table = "base"
-label = "Sunyshore City - Dot Art App"
+label = "Sunyshore City - Dot Artist App From Developer"
 
 [sunyshore_city_east_house_calendar]
 id = 98
@@ -5416,7 +5416,7 @@ check = 2931
 original_item = "calendar"
 type = "poketchapp"
 table = "base"
-label = "Sunyshore City - Calendar App"
+label = "Sunyshore City - Calendar App From Developer"
 
 [poketch_co_1f_memopad]
 id = 99
@@ -5723,7 +5723,7 @@ check = 213
 original_item = "scope_lens"
 type = "npc_gift"
 table = "base"
-label = "Fight Area - Scope Lens (From old lady in mart)"
+label = "Fight Area - Gift from Woman in Poké Mart"
 
 [route_229_nugget]
 id = 110
@@ -5747,7 +5747,7 @@ check = 203
 original_item = "tm42"
 type = "npc_gift"
 table = "base"
-label = "Survival Area - TM42 (From man in South house)"
+label = "Survival Area - Gift from Man in Southern House"
 
 [route_225_house_fresh_water]
 id = 113
@@ -5755,7 +5755,7 @@ check = 217
 original_item = "fresh_water"
 type = "npc_gift"
 table = "base"
-label = "Route 225 - Fresh Water (From man in house)"
+label = "Route 225 - Gift from Man in House"
 
 [route_206_cycling_road_south_gate_flag]
 id = 114
@@ -5771,7 +5771,7 @@ check = 317
 original_item = "chimchar_mask"
 type = "accessory"
 table = "base"
-label = "Jubilife TV - Chimchar Mask"
+label = "Jubilife City - Mask from Man in Jubilife TV 2F"
 
 [pastoria_city_piplup_mask]
 id = 116
@@ -5779,7 +5779,7 @@ check = 296
 original_item = "piplup_mask"
 type = "accessory"
 table = "base"
-label = "Pastoria City - Piplup Mask"
+label = "Pastoria City - Gift from Parasol Lady"
 
 [veilstone_store_1f_turtwig_mask]
 id = 117
@@ -5822,7 +5822,7 @@ id = 118
 original_item = "glitter_powder"
 type = "accessory"
 table = "base"
-label = "Hearthome City Contest Hall - Glitter Powder"
+label = "Hearthome City - Glitter Powder gift in Contest Hall"
 
 [contest_hall_lobby_glitter_powder.check]
 id = 16631
@@ -5862,7 +5862,7 @@ check = 298
 original_item = "big_tree"
 type = "accessory"
 table = "base"
-label = "Eterna Forest Outside - Big Tree"
+label = "Eterna Forest Side Route - Big Tree from Woman"
 
 [flower_shop_berry]
 id = 2
@@ -5875,7 +5875,7 @@ original_item = [
 ]
 type = "npc_gift"
 table = "once"
-label = "Floaroma Town Flower Shop - Random Berry"
+label = "Floaroma Town - Daily Berry from Flower Shop"
 
 [flower_shop_berry.check]
 id = 2
@@ -5928,7 +5928,7 @@ id = 14
 original_item = "great_ball"
 type = "npc_gift"
 table = "once"
-label = "Celestic Town - Great Ball (From Man in Pokémon Center)"
+label = "Celestic Town - Gift from Man in Pokémon Center"
 
 [celestic_town_pokecenter_1f_great_ball.check]
 id = 14
